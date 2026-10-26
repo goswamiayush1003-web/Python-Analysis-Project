@@ -1,0 +1,121 @@
+﻿ID,NAME,FRIENDS,LIKED_PAGES,PAGES_NAME
+1,Aarav Sharma,[104],"[105, 116]","[""Analytics World"", ""Competitive Programming""]"
+2,Priya Rao,"[3, 13, 71, 108]","[111, 112, 118, 119]","[""Tech Career Hub"", ""Java Developers"", ""DevOps Community"", ""Big Data Professionals""]"
+3,Rohan Mishra,"[79, 84]","[111, 112, 116]","[""Tech Career Hub"", ""Java Developers"", ""Competitive Programming""]"
+4,Ananya Kulkarni,[29],"[107, 116, 120]","[""Cloud Computing Network"", ""Competitive Programming"", ""Computer Vision Group""]"
+5,Vikram Thakur,"[51, 100]","[107, 110, 113, 117]","[""Cloud Computing Network"", ""Open Source Contributors"", ""Excel Experts"", ""Mobile App Developers""]"
+6,Neha Joshi,"[10, 38, 43, 45]","[105, 111, 114]",
+7,,"[76, 93, 111]","[107, 111, 112, 115]","[""Cloud Computing Network"", ""Tech Career Hub"", ""Java Developers"", ""UI UX Designers""]"
+8,Kavya Kaur,[21],"[105, 119]","[""Analytics World"", ""Big Data Professionals""]"
+9,Aditya Agarwal,"[62, 90]","[102, 114]","[""Data Science Enthusiasts"", ""Startup Community""]"
+10,,"[16, 41, 52, 82]",[117],"[""Mobile App Developers""]"
+11,,"[9, 59]","[106, 113]","[""SQL Learners"", ""Excel Experts""]"
+12,,[37],"[104, 112, 120]","[""Web Dev Hub"", ""Java Developers"", ""Computer Vision Group""]"
+13,Karan Tiwari,[77],"[103, 110, 115]",
+14,Pooja Verma,"[2, 11, 39, 40]","[103, 109, 119]","[""AI & ML Community"", ""Deep Learning Forum"", ""Big Data Professionals""]"
+15,Aman Khan,"[2, 7, 74, 103, 114]",[104],"[""Web Dev Hub""]"
+16,Meera Iyer,"[85, 100, 111]","[112, 115]","[""Java Developers"", ""UI UX Designers""]"
+17,Sahil Reddy,"[5, 11, 29, 65]","[110, 111, 116, 118]","[""Open Source Contributors"", ""Tech Career Hub"", ""Competitive Programming"", ""DevOps Community""]"
+18,Riya Desai,"[24, 40, 48, 90]","[114, 115, 117, 119]","[""Startup Community"", ""UI UX Designers"", ""Mobile App Developers"", ""Big Data Professionals""]"
+19,Dev Mehta,"[11, 18, 98, 116]","[102, 103, 111]",
+20,Simran Nair,"[49, 93, 100, 106]",,"[""Cloud Computing Network"", ""Open Source Contributors"", ""Big Data Professionals""]"
+21,Nikhil Soni,"[22, 35, 40, 68, 99]","[111, 113, 117]",
+22,Aditi Sheikh,[],"[105, 111, 114]","[""Analytics World"", ""Tech Career Hub"", ""Startup Community""]"
+23,Varun Gupta,"[11, 29, 40, 60, 114]","[112, 114, 118, 119]","[""Java Developers"", ""Startup Community"", ""DevOps Community"", ""Big Data Professionals""]"
+24,Tanya Das,"[108, 110]","[107, 109, 112, 115]","[""Cloud Computing Network"", ""Deep Learning Forum"", ""Java Developers"", ""UI UX Designers""]"
+25,Manish Shah,"[21, 26, 30, 54, 76]","[105, 112, 119]","[""Analytics World"", ""Java Developers"", ""Big Data Professionals""]"
+26,Diya Menon,"[54, 63, 81]","[104, 114, 118]",#NAME?
+27,Harsh Patel,[71],"[104, 115, 116]","[""Web Dev Hub"", ""UI UX Designers"", ""Competitive Programming""]"
+28,Sana Jain,"[18, 23, 54, 107, 111]",[104],"[""Web Dev Hub""]"
+29,Yash Kapoor,[19],"[101, 107, 108, 111]","[""Python Developers"", ""Cloud Computing Network"", ""Cybersecurity Circle"", ""Tech Career Hub""]"
+30,Mahi Bose,"[18, 38, 74]",[118],"[""DevOps Community""]"
+31,,[105],"[107, 119]","[""Cloud Computing Network"", ""Big Data Professionals""]"
+32,,[9],"[115, 119, 120]","[""UI UX Designers"", ""Big Data Professionals"", ""Computer Vision Group""]"
+33,,"[10, 108]",[114],"[""Startup Community""]"
+34,,"[46, 50, 63, 94]",[111],
+35,,"[32, 64, 93, 110]","[103, 106, 113, 115]","[""AI & ML Community"", ""SQL Learners"", ""Excel Experts"", ""UI UX Designers""]"
+36,,[28],[101],"[""Python Developers""]"
+37,Deepak Malhotra,"[14, 88, 108, 110, 116]","[101, 102, 119]","[""Python Developers"", ""Data Science Enthusiasts"", ""Big Data Professionals""]"
+38,Palak Kaur,"[76, 102]","[101, 105, 108, 113]","[""Python Developers"", ""Analytics World"", ""Cybersecurity Circle"", ""Excel Experts""]"
+39,,"[35, 68, 71]",,"[""Web Dev Hub"", ""Cybersecurity Circle"", ""Tech Career Hub"", ""UI UX Designers""]"
+40,Muskan Singh,"[14, 32, 36, 91]",,
+41,Ankit Yadav,"[63, 69, 81, 82]","[106, 117]","[""SQL Learners"", ""Mobile App Developers""]"
+42,Sakshi Choudhary,[25],,"[""Cloud Computing Network"", ""Cybersecurity Circle"", ""Deep Learning Forum"", ""Big Data Professionals""]"
+43,Pranav Tiwari,,,"[""Cloud Computing Network"", ""Deep Learning Forum"", ""Tech Career Hub"", ""Computer Vision Group""]"
+44,Ira Verma,"[36, 69]",,
+45,Gaurav Khan,"[3, 61, 118]","[114, 116]","[""Startup Community"", ""Competitive Programming""]"
+46,Avni Iyer,"[81, 95]",,"[""SQL Learners"", ""Cloud Computing Network"", ""Cybersecurity Circle"", ""Mobile App Developers""]"
+47,Siddharth Reddy,"[54, 104, 109, 114]",[116],
+48,Khushi Desai,[114],"[104, 115, 116]","[""Web Dev Hub"", ""UI UX Designers"", ""Competitive Programming""]"
+49,Naveen Mehta,[46],"[106, 112, 114, 120]","[""SQL Learners"", ""Java Developers"", ""Startup Community"", ""Computer Vision Group""]"
+50,Ayesha Nair,[98],[101],"[""Python Developers""]"
+51,Aarav Kulkarni,"[23, 35, 48, 111]","[101, 115]","[""Python Developers"", ""UI UX Designers""]"
+52,Priya Thakur,"[63, 90, 96, 109]","[112, 119]","[""Java Developers"", ""Big Data Professionals""]"
+53,,"[10, 37, 73, 87, 96]","[102, 111, 119]","[""Data Science Enthusiasts"", ""Tech Career Hub"", ""Big Data Professionals""]"
+54,Ananya Malhotra,"[21, 65, 68]","[105, 119]",
+55,Vikram Kaur,"[12, 17, 36, 56, 118]","[102, 104, 111]","[""Data Science Enthusiasts"", ""Web Dev Hub"", ""Tech Career Hub""]"
+56,Neha Agarwal,"[11, 35]","[108, 115]","[""Cybersecurity Circle"", ""UI UX Designers""]"
+57,Arjun Singh,"[3, 15, 109]","[103, 108, 111, 112]","[""AI & ML Community"", ""Cybersecurity Circle"", ""Tech Career Hub"", ""Java Developers""]"
+58,Kavya Yadav,,"[104, 116, 120]",
+59,,"[42, 57, 60]","[108, 109, 119]","[""Cybersecurity Circle"", ""Deep Learning Forum"", ""Big Data Professionals""]"
+60,,"[13, 23, 40, 62, 98]","[102, 103, 114, 120]","[""Data Science Enthusiasts"", ""AI & ML Community"", ""Startup Community"", ""Computer Vision Group""]"
+61,Rahul Verma,"[6, 40, 91, 105, 118]","[110, 111]",
+62,,"[26, 34, 95]","[102, 106, 113, 114]","[""Data Science Enthusiasts"", ""SQL Learners"", ""Excel Experts"", ""Startup Community""]"
+63,Karan Iyer,"[17, 32, 48, 85, 110]","[102, 107, 109, 115]","[""Data Science Enthusiasts"", ""Cloud Computing Network"", ""Deep Learning Forum"", ""UI UX Designers""]"
+64,Pooja Reddy,"[2, 84]","[101, 108, 114, 119]",
+65,,"[46, 56, 104]","[102, 108, 118, 119]",
+66,Meera Mehta,"[6, 11, 88, 98, 119]","[114, 116, 118]","[""Startup Community"", ""Competitive Programming"", ""DevOps Community""]"
+67,Sahil Nair,"[8, 14, 45, 92]","[102, 110, 117]","[""Data Science Enthusiasts"", ""Open Source Contributors"", ""Mobile App Developers""]"
+68,Riya Soni,[81],"[108, 112]","[""Cybersecurity Circle"", ""Java Developers""]"
+69,Dev Sheikh,"[12, 41, 92]","[103, 104, 106, 114]",
+70,Simran Gupta,"[12, 21, 42, 45, 53]","[101, 102, 111, 113]","[""Python Developers"", ""Data Science Enthusiasts"", ""Tech Career Hub"", ""Excel Experts""]"
+71,Nikhil Das,[44],"[105, 110, 115]","[""Analytics World"", ""Open Source Contributors"", ""UI UX Designers""]"
+72,Aditi Shah,"[11, 16, 58, 99]","[104, 114, 119]",
+73,Varun Menon,"[8, 27, 41]","[107, 108, 109, 110]","[""Cloud Computing Network"", ""Cybersecurity Circle"", ""Deep Learning Forum"", ""Open Source Contributors""]"
+74,Tanya Patel,"[7, 21, 85, 106, 108]","[104, 116, 119]","[""Web Dev Hub"", ""Competitive Programming"", ""Big Data Professionals""]"
+75,Manish Jain,"[20, 38, 108]",[112],"[""Java Developers""]"
+76,Diya Kapoor,[44],"[113, 118, 119]",
+77,,[],"[106, 111, 117]","[""SQL Learners"", ""Tech Career Hub"", ""Mobile App Developers""]"
+78,Sana Sharma,"[12, 55, 93, 105]","[111, 117, 119]","[""Tech Career Hub"", ""Mobile App Developers"", ""Big Data Professionals""]"
+79,Yash Rao,,[103],"[""AI & ML Community""]"
+80,Mahi Mishra,"[41, 43, 48, 56, 95]","[102, 119]","[""Data Science Enthusiasts"", ""Big Data Professionals""]"
+81,,"[25, 33, 91, 109]","[106, 116, 119]","[""SQL Learners"", ""Competitive Programming"", ""Big Data Professionals""]"
+82,,,"[103, 120]","[""AI & ML Community"", ""Computer Vision Group""]"
+83,Mohit Joshi,"[3, 50, 57, 93, 96]","[113, 114]","[""Excel Experts"", ""Startup Community""]"
+84,Nandini Malhotra,"[4, 27, 74, 91]","[104, 105]","[""Web Dev Hub"", ""Analytics World""]"
+85,Kunal Kaur,"[11, 29, 57, 69]",[104],
+86,Tanvi Agarwal,"[2, 24, 36, 66, 113]",,"[""Java Developers"", ""Big Data Professionals""]"
+87,,"[26, 52, 56, 59, 111]","[101, 112]","[""Python Developers"", ""Java Developers""]"
+88,Palak Yadav,"[56, 64]","[105, 115]","[""Analytics World"", ""UI UX Designers""]"
+89,Rajat Choudhary,"[11, 24, 40, 52, 102]","[103, 109, 110]",
+90,Muskan Tiwari,"[27, 45, 74, 107]","[104, 109, 117, 119]","[""Web Dev Hub"", ""Deep Learning Forum"", ""Mobile App Developers"", ""Big Data Professionals""]"
+91,,"[36, 49, 118]","[106, 114]",
+92,Sakshi Khan,"[19, 72, 117, 118]",,"[""Python Developers"", ""Cloud Computing Network"", ""Tech Career Hub"", ""UI UX Designers""]"
+93,Pranav Iyer,"[6, 40, 99]","[104, 109, 120]","[""Web Dev Hub"", ""Deep Learning Forum"", ""Computer Vision Group""]"
+94,Ira Reddy,"[3, 61, 73]","[102, 104, 114]","[""Data Science Enthusiasts"", ""Web Dev Hub"", ""Startup Community""]"
+95,Gaurav Desai,,"[108, 109, 114, 116]",
+96,Avni Mehta,"[17, 75]","[103, 108]","[""AI & ML Community"", ""Cybersecurity Circle""]"
+97,Siddharth Nair,"[9, 73]",[110],"[""Open Source Contributors""]"
+98,Khushi Soni,"[9, 21, 60]","[103, 112, 114]","[""AI & ML Community"", ""Java Developers"", ""Startup Community""]"
+99,Naveen Sheikh,"[28, 39, 105]",,"[""Tech Career Hub"", ""Big Data Professionals""]"
+100,Ayesha Gupta,"[7, 78, 99, 105]","[103, 111, 115, 119]","[""AI & ML Community"", ""Tech Career Hub"", ""UI UX Designers"", ""Big Data Professionals""]"
+101,Aarav Malhotra,"[24, 56, 86, 97]","[105, 119]","[""Analytics World"", ""Big Data Professionals""]"
+102,,"[56, 95]","[103, 107, 108, 109]",
+103,Rohan Agarwal,[61],"[105, 120]",
+104,Ananya Singh,"[36, 83]",[116],"[""Competitive Programming""]"
+105,Vikram Yadav,"[5, 23, 84]",[108],"[""Cybersecurity Circle""]"
+106,Neha Choudhary,"[12, 25, 55, 93, 110]","[103, 110, 112]","[""AI & ML Community"", ""Open Source Contributors"", ""Java Developers""]"
+107,Arjun Tiwari,"[66, 86]",[102],"[""Data Science Enthusiasts""]"
+108,Kavya Verma,"[6, 20, 34, 101]","[105, 117]","[""Analytics World"", ""Mobile App Developers""]"
+109,Aditya Khan,[64],[107],"[""Cloud Computing Network""]"
+110,Isha Iyer,"[15, 27]","[110, 112]","[""Open Source Contributors"", ""Java Developers""]"
+111,Rahul Reddy,"[2, 26, 34, 36]","[102, 110, 116]",
+112,Sneha Desai,[59],[107],"[""Cloud Computing Network""]"
+113,Karan Mehta,"[49, 90, 115]","[101, 104, 109, 115]","[""Python Developers"", ""Web Dev Hub"", ""Deep Learning Forum"", ""UI UX Designers""]"
+114,,,"[108, 119]","[""Cybersecurity Circle"", ""Big Data Professionals""]"
+115,Aman Soni,,"[102, 114]","[""Data Science Enthusiasts"", ""Startup Community""]"
+116,Meera Sheikh,"[11, 14, 21, 33, 119]","[102, 104, 105, 112]","[""Data Science Enthusiasts"", ""Web Dev Hub"", ""Analytics World"", ""Java Developers""]"
+117,Sahil Gupta,"[1, 24, 27, 83, 110]",[108],
+118,Riya Das,,"[102, 113, 120]",
+119,Dev Shah,"[3, 37, 53, 90, 95]","[103, 112, 116, 120]","[""AI & ML Community"", ""Java Developers"", ""Competitive Programming"", ""Computer Vision Group""]"
+120,Simran Menon,"[1, 39, 60, 74]","[119, 120]","[""Big Data Professionals"", ""Computer Vision Group""]"
